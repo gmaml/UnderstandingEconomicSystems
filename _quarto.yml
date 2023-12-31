@@ -4,17 +4,24 @@ project:
 
 website:
   title: "Understanding Economic Systems"
+  site-url: https://gmaml.github.io/UnderstandingEconomicSystems/
+  description: "This blog will discuss macroeconomics and finance from complex systems perspective"
   navbar:
     right:
+      - text: Blog 
+        href: index.qmd
       - about.qmd
       - icon: github
         href: https://github.com/gmaml
       - icon: twitter
         href: https://twitter.com
+      - icon: rss
+        href: index.xml
+      - text: Archive
+        href: archive.qmd 
 format:
   html:
     theme: theme.scss
-    css: styles.css
-
+    
 
 

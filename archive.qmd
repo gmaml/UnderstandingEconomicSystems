@@ -1,0 +1,9 @@
+---
+title: "Archive"
+page-layout: full
+listing:
+  contents: docs/**/*.qmd
+  type: default
+  fields: [date, title]
+  sort: 'date desc'
+---
