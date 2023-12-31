@@ -1,1 +1,1 @@
-# Understanding Economi Systems
+# Understanding Economic Systems
